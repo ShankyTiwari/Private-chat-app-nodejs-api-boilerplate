@@ -1,7 +1,5 @@
-<<<<<<< HEAD
 # NodeJS API for private chatting app built using Angular
-
-This is NodeJS API for private chatting app built using Angular. The API is built using Nodejs (version 8.9.3) and MongoDB(version v3.4.2).
+This a boilerplate For [NodeJs API](https://github.com/ShankyTiwari/Real-time-private-chatting-app-using-Angular-Nodejs-API) used for Private chat built using Angular. This is NodeJS API for private chatting app built using Angular. The API is built using Nodejs (version 8.9.3) and MongoDB(version v3.4.2).
 
 
 ## Installation 
@@ -20,7 +18,3 @@ I have written a complete article on this application in three parts, for more d
 
 # Looking for Plain Old AngularJS
 I have written this application in AngularJs as well, [Read this popular Blog post](http://www.codershood.info/2015/12/10/real-time-chatting-app-using-nodejs-mysql-angularjs-and-socket-io-part-1/), which has more than 50k views and 100000 downloads approx.
-=======
-# Private-chat-app-nodejs-api-boilerplate
-This a boilerplate For NodeJs API used for Private chat app.
->>>>>>> b400af3e233997e45bebb98dc248eee1651003ba
